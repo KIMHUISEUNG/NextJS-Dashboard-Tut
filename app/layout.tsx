@@ -10,9 +10,8 @@ export const metadata: Metadata = {
   description: '공식 Next.js Learn 과정에서 배포한 App Router.',
   icons: "/favicon.ico",
   openGraph: {
-    title: "HatsoDB | HatsoDB App Router",
+    title: "HatsoDB App Router",
     description: "공식 Next.js Learn 과정에서 배포한 App Router.",
-    url: "https://next-js-dashboard-tut-nine.vercel.app/",
     siteName: "HatsoDB project",
     images: [
       {
